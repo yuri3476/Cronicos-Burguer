@@ -1,4 +1,4 @@
-<h1>CRÔNICOS BRUGUER</h1>
+<h1>CRÔNICOS BURGUER</h1>
 
 <h3>Link: https://cronicos-burguer.vercel.app/</h3>
 
